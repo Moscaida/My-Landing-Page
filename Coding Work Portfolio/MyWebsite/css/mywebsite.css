@@ -108,6 +108,14 @@ p:not(.header-p):not(.footer-p) {
   opacity: 0.5;
 }
 
+.footer__content {
+  font: size 10px;px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #BAFDFD;
+
+}
+
 /* For tablets and small laptops */
 @media only screen and (max-width: 1024px) {
   h1 {
